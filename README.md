@@ -16,13 +16,13 @@ Raquel Castromonte, Elizabeth Tum, Andre Cunalata, Alex Reyes
 
 #### 2. Executive Summary
 *Situation:*
-Our client, BlackRock, wants insights on the housing situation in NYC for long-term investments.
+Our client wants insights on the housing situation in NYC for long-term investments.
 
 *Complication:*
 COVID-19 altered the real estate market in New York City, making investments a high risk action in the early 2020s. As the city is recovering, we are narrowing NYC areas that will increase our client’s desired investments.
 
 *Resolution:*
-We will provide a list of districts that will help support the real estate investments of our clients.
+We will provide a list of neighborhoods that will help support the property investments of our clients.
 
 #### 3. Our Client
 
