@@ -16,7 +16,7 @@ Raquel Castromonte, Elizabeth Tum, Andre Cunalata, Alex Reyes
 
 #### 2. Executive Summary
 *Situation:*
-Our client wants insights on the housing situation in NYC for long-term investments.
+Our ideal client wants insights on the housing situation in NYC for long-term investments.
 
 *Complication:*
 COVID-19 altered the real estate market in New York City, making investments a high risk action in the early 2020s. As the city is recovering, we are narrowing NYC areas that will increase our client’s desired investments.
